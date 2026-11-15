@@ -1,0 +1,11 @@
+# Databases & Local Settings
+*.sqlite
+*.db
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Buildozer / Android build folders
+.buildozer/
+bin/
